@@ -1,7 +1,0 @@
-Container stores 6 languages:
-It is Procedural: are abstract types present = True, popularity = 7.3, year of creation = 1965, GeneralFunction = 269.1781
-It is Functional: typification = DYNAMIC, is lazy calculations support = True, popularity = 5.3, year of creation = 2001, GeneralFunction = 377.5472
-It is ObjectOriented: inheritance = MULTIPLE, popularity = 3.8, year of creation = 1993, GeneralFunction = 524.4737
-It is Functional: typification = DYNAMIC, is lazy calculations support = False, popularity = 6.3, year of creation = 1979, GeneralFunction = 314.127
-It is Procedural: are abstract types present = False, popularity = 7.9, year of creation = 1990, GeneralFunction = 251.8987
-It is Functional: typification = STRICT, is lazy calculations support = False, popularity = 3.3, year of creation = 2001, GeneralFunction = 606.3636

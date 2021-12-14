@@ -1,3 +1,0 @@
-Filled container:
-Container contains 1 elements.
-1: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 78.4. Year of creation = 2015. GeneralFunction = 25.7015

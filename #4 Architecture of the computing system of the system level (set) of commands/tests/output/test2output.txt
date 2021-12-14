@@ -1,7 +1,0 @@
-Filled container:
-Container contains 5 elements.
-1: It is Procedural: are abstract types present = true. Popularity = 7.300. Year of creation = 1965. GeneralFunction = 269.178
-2: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.300. Year of creation = 2001. GeneralFunction = 377.547
-3: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.800. Year of creation = 1993. GeneralFunction = 524.474
-4: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.300. Year of creation = 1979. GeneralFunction = 314.127
-5: It is Procedural: are abstract types present = true. Popularity = 7.900. Year of creation = 1990. GeneralFunction = 251.899
