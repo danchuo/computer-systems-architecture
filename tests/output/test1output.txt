@@ -1,0 +1,2 @@
+Container stores 1 languages:
+It is Functional: typification = STRICT, is lazy calculations support = True, popularity = 78.4, year of creation = 2015, GeneralFunction = 25.7015
