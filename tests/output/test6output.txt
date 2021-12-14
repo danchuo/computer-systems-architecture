@@ -1,0 +1,1002 @@
+Filled container:
+Container contains 1000 elements.
+1: It is Procedural: are abstract types present = false. Popularity = 9.200. Year of creation = 1992. GeneralFunction = 216.522
+2: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.400. Year of creation = 2003. GeneralFunction = 1430.714
+3: It is Procedural: are abstract types present = true. Popularity = 3.600. Year of creation = 1966. GeneralFunction = 546.111
+4: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.400. Year of creation = 1957. GeneralFunction = 232.976
+5: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.700. Year of creation = 2005. GeneralFunction = 230.460
+6: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.400. Year of creation = 2016. GeneralFunction = 272.432
+7: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 7.500. Year of creation = 2014. GeneralFunction = 268.533
+8: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.400. Year of creation = 1964. GeneralFunction = 446.364
+9: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.800. Year of creation = 1940. GeneralFunction = 248.718
+10: It is Procedural: are abstract types present = false. Popularity = 6.400. Year of creation = 1977. GeneralFunction = 308.906
+11: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.400. Year of creation = 1942. GeneralFunction = 303.438
+12: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 6.800. Year of creation = 1940. GeneralFunction = 285.294
+13: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.400. Year of creation = 2018. GeneralFunction = 373.704
+14: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 2.800. Year of creation = 1927. GeneralFunction = 688.214
+15: It is Procedural: are abstract types present = true. Popularity = 2.000. Year of creation = 2016. GeneralFunction = 1008.000
+16: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.300. Year of creation = 2016. GeneralFunction = 276.164
+17: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.800. Year of creation = 2010. GeneralFunction = 717.857
+18: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.800. Year of creation = 1925. GeneralFunction = 246.795
+19: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.400. Year of creation = 1985. GeneralFunction = 211.170
+20: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.100. Year of creation = 1987. GeneralFunction = 325.738
+21: It is Procedural: are abstract types present = true. Popularity = 4.700. Year of creation = 1938. GeneralFunction = 412.340
+22: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.500. Year of creation = 1999. GeneralFunction = 571.143
+23: It is Procedural: are abstract types present = true. Popularity = 1.800. Year of creation = 1920. GeneralFunction = 1066.667
+24: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.700. Year of creation = 2004. GeneralFunction = 426.383
+25: It is Procedural: are abstract types present = false. Popularity = 4.500. Year of creation = 1927. GeneralFunction = 428.222
+26: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.500. Year of creation = 2006. GeneralFunction = 802.400
+27: It is Procedural: are abstract types present = true. Popularity = 5.600. Year of creation = 1929. GeneralFunction = 344.464
+28: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.700. Year of creation = 2000. GeneralFunction = 206.186
+29: It is Procedural: are abstract types present = false. Popularity = 5.800. Year of creation = 1964. GeneralFunction = 338.621
+30: It is ObjectOriented: inheritance = INTERFACE. Popularity = 3.300. Year of creation = 1934. GeneralFunction = 586.061
+31: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.600. Year of creation = 1965. GeneralFunction = 258.553
+32: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.000. Year of creation = 1929. GeneralFunction = 214.333
+33: It is Procedural: are abstract types present = false. Popularity = 3.800. Year of creation = 1924. GeneralFunction = 506.316
+34: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.000. Year of creation = 1980. GeneralFunction = 495.000
+35: It is Procedural: are abstract types present = false. Popularity = 8.400. Year of creation = 1996. GeneralFunction = 237.619
+36: It is Procedural: are abstract types present = true. Popularity = 9.300. Year of creation = 1992. GeneralFunction = 214.194
+37: It is Procedural: are abstract types present = false. Popularity = 6.000. Year of creation = 1964. GeneralFunction = 327.333
+38: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.600. Year of creation = 1965. GeneralFunction = 545.833
+39: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.000. Year of creation = 2001. GeneralFunction = 333.500
+40: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.800. Year of creation = 1932. GeneralFunction = 402.500
+41: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.000. Year of creation = 1998. GeneralFunction = 499.500
+42: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.000. Year of creation = 1932. GeneralFunction = 241.500
+43: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.600. Year of creation = 2000. GeneralFunction = 208.333
+44: It is Procedural: are abstract types present = true. Popularity = 10.400. Year of creation = 1986. GeneralFunction = 190.962
+45: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.300. Year of creation = 1994. GeneralFunction = 604.242
+46: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 4.600. Year of creation = 1990. GeneralFunction = 432.609
+47: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.100. Year of creation = 2015. GeneralFunction = 1831.818
+48: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.800. Year of creation = 1951. GeneralFunction = 199.082
+49: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.100. Year of creation = 1932. GeneralFunction = 1756.364
+50: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.500. Year of creation = 1946. GeneralFunction = 228.941
+51: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.900. Year of creation = 2010. GeneralFunction = 693.103
+52: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.400. Year of creation = 1931. GeneralFunction = 301.719
+53: It is Procedural: are abstract types present = false. Popularity = 9.000. Year of creation = 2014. GeneralFunction = 223.778
+54: It is Procedural: are abstract types present = false. Popularity = 10.400. Year of creation = 2012. GeneralFunction = 193.462
+55: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.600. Year of creation = 2004. GeneralFunction = 303.636
+56: It is Procedural: are abstract types present = true. Popularity = 1.900. Year of creation = 1997. GeneralFunction = 1051.053
+57: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.500. Year of creation = 1985. GeneralFunction = 233.529
+58: It is Procedural: are abstract types present = false. Popularity = 1.400. Year of creation = 1943. GeneralFunction = 1387.857
+59: It is Procedural: are abstract types present = true. Popularity = 7.500. Year of creation = 2009. GeneralFunction = 267.867
+60: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.700. Year of creation = 1950. GeneralFunction = 527.027
+61: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.100. Year of creation = 1985. GeneralFunction = 196.535
+62: It is Procedural: are abstract types present = false. Popularity = 2.000. Year of creation = 1998. GeneralFunction = 999.000
+63: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.500. Year of creation = 2002. GeneralFunction = 235.529
+64: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.000. Year of creation = 1960. GeneralFunction = 217.778
+65: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 5.300. Year of creation = 2007. GeneralFunction = 378.679
+66: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 5.100. Year of creation = 2002. GeneralFunction = 392.549
+67: It is Procedural: are abstract types present = true. Popularity = 4.000. Year of creation = 1931. GeneralFunction = 482.750
+68: It is Procedural: are abstract types present = true. Popularity = 5.100. Year of creation = 1930. GeneralFunction = 378.431
+69: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.800. Year of creation = 1947. GeneralFunction = 335.690
+70: It is Procedural: are abstract types present = false. Popularity = 7.400. Year of creation = 1987. GeneralFunction = 268.514
+71: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 6.000. Year of creation = 1953. GeneralFunction = 325.500
+72: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.400. Year of creation = 2007. GeneralFunction = 836.250
+73: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.000. Year of creation = 2006. GeneralFunction = 334.333
+74: It is Procedural: are abstract types present = true. Popularity = 7.700. Year of creation = 1940. GeneralFunction = 251.948
+75: It is Procedural: are abstract types present = true. Popularity = 4.800. Year of creation = 1956. GeneralFunction = 407.500
+76: It is Procedural: are abstract types present = false. Popularity = 6.200. Year of creation = 2004. GeneralFunction = 323.226
+77: It is Procedural: are abstract types present = true. Popularity = 3.400. Year of creation = 1938. GeneralFunction = 570.000
+78: It is Procedural: are abstract types present = true. Popularity = 8.200. Year of creation = 1945. GeneralFunction = 237.195
+79: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.600. Year of creation = 1963. GeneralFunction = 185.189
+80: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.400. Year of creation = 2008. GeneralFunction = 213.617
+81: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.900. Year of creation = 2003. GeneralFunction = 183.761
+82: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.700. Year of creation = 1979. GeneralFunction = 257.013
+83: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.600. Year of creation = 1938. GeneralFunction = 293.636
+84: It is Procedural: are abstract types present = true. Popularity = 3.500. Year of creation = 2002. GeneralFunction = 572.000
+85: It is Procedural: are abstract types present = true. Popularity = 1.700. Year of creation = 1997. GeneralFunction = 1174.706
+86: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.900. Year of creation = 2010. GeneralFunction = 693.103
+87: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.000. Year of creation = 1997. GeneralFunction = 332.833
+88: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.300. Year of creation = 1989. GeneralFunction = 213.871
+89: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.200. Year of creation = 1955. GeneralFunction = 465.476
+90: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.300. Year of creation = 1997. GeneralFunction = 376.792
+91: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 6.800. Year of creation = 1951. GeneralFunction = 286.912
+92: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.500. Year of creation = 1938. GeneralFunction = 258.400
+93: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.000. Year of creation = 1997. GeneralFunction = 221.889
+94: It is Procedural: are abstract types present = true. Popularity = 1.500. Year of creation = 1946. GeneralFunction = 1297.333
+95: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 7.000. Year of creation = 2018. GeneralFunction = 288.286
+96: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.600. Year of creation = 2014. GeneralFunction = 559.444
+97: It is Procedural: are abstract types present = true. Popularity = 10.800. Year of creation = 1975. GeneralFunction = 182.870
+98: It is Procedural: are abstract types present = true. Popularity = 3.200. Year of creation = 1971. GeneralFunction = 615.938
+99: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.600. Year of creation = 2008. GeneralFunction = 264.211
+100: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 2.800. Year of creation = 1976. GeneralFunction = 705.714
+101: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 5.400. Year of creation = 1970. GeneralFunction = 364.815
+102: It is Procedural: are abstract types present = false. Popularity = 8.300. Year of creation = 1941. GeneralFunction = 233.855
+103: It is Procedural: are abstract types present = false. Popularity = 10.700. Year of creation = 2004. GeneralFunction = 187.290
+104: It is Procedural: are abstract types present = false. Popularity = 1.000. Year of creation = 1999. GeneralFunction = 1999.000
+105: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.500. Year of creation = 1957. GeneralFunction = 559.143
+106: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.300. Year of creation = 1928. GeneralFunction = 584.242
+107: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.300. Year of creation = 1982. GeneralFunction = 373.962
+108: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.800. Year of creation = 1920. GeneralFunction = 685.714
+109: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.100. Year of creation = 1944. GeneralFunction = 240.000
+110: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.300. Year of creation = 1959. GeneralFunction = 455.581
+111: It is Procedural: are abstract types present = false. Popularity = 7.800. Year of creation = 1921. GeneralFunction = 246.282
+112: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.600. Year of creation = 1980. GeneralFunction = 761.538
+113: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.200. Year of creation = 1948. GeneralFunction = 1623.333
+114: It is Procedural: are abstract types present = false. Popularity = 10.900. Year of creation = 1923. GeneralFunction = 176.422
+115: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.900. Year of creation = 2013. GeneralFunction = 291.739
+116: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.700. Year of creation = 2001. GeneralFunction = 540.811
+117: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.600. Year of creation = 1928. GeneralFunction = 224.186
+118: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 8.500. Year of creation = 2012. GeneralFunction = 236.706
+119: It is Procedural: are abstract types present = true. Popularity = 4.400. Year of creation = 1973. GeneralFunction = 448.409
+120: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.600. Year of creation = 2012. GeneralFunction = 1257.500
+121: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.400. Year of creation = 1929. GeneralFunction = 260.676
+122: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.000. Year of creation = 1952. GeneralFunction = 390.400
+123: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.100. Year of creation = 2013. GeneralFunction = 394.706
+124: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.800. Year of creation = 1968. GeneralFunction = 339.310
+125: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 6.300. Year of creation = 1984. GeneralFunction = 314.921
+126: It is Procedural: are abstract types present = true. Popularity = 7.700. Year of creation = 1923. GeneralFunction = 249.740
+127: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.900. Year of creation = 1981. GeneralFunction = 1042.632
+128: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.600. Year of creation = 1946. GeneralFunction = 226.279
+129: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.200. Year of creation = 1938. GeneralFunction = 210.652
+130: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.100. Year of creation = 1987. GeneralFunction = 946.190
+131: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.600. Year of creation = 2015. GeneralFunction = 265.132
+132: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 1.900. Year of creation = 1980. GeneralFunction = 1042.105
+133: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.700. Year of creation = 1931. GeneralFunction = 288.209
+134: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.100. Year of creation = 1958. GeneralFunction = 631.613
+135: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 7.500. Year of creation = 1975. GeneralFunction = 263.333
+136: It is Procedural: are abstract types present = false. Popularity = 9.300. Year of creation = 1979. GeneralFunction = 212.796
+137: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.900. Year of creation = 1962. GeneralFunction = 248.354
+138: It is Procedural: are abstract types present = true. Popularity = 6.900. Year of creation = 2017. GeneralFunction = 292.319
+139: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.700. Year of creation = 1937. GeneralFunction = 289.104
+140: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.400. Year of creation = 1929. GeneralFunction = 229.643
+141: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.700. Year of creation = 1974. GeneralFunction = 226.897
+142: It is Procedural: are abstract types present = true. Popularity = 4.900. Year of creation = 1985. GeneralFunction = 405.102
+143: It is Procedural: are abstract types present = true. Popularity = 4.600. Year of creation = 1955. GeneralFunction = 425.000
+144: It is Procedural: are abstract types present = false. Popularity = 5.300. Year of creation = 1931. GeneralFunction = 364.340
+145: It is Procedural: are abstract types present = false. Popularity = 7.100. Year of creation = 1931. GeneralFunction = 271.972
+146: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.800. Year of creation = 2018. GeneralFunction = 296.765
+147: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.900. Year of creation = 1927. GeneralFunction = 176.789
+148: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.300. Year of creation = 1959. GeneralFunction = 1506.923
+149: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.700. Year of creation = 1921. GeneralFunction = 179.533
+150: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.700. Year of creation = 1969. GeneralFunction = 345.439
+151: It is Procedural: are abstract types present = true. Popularity = 7.000. Year of creation = 1953. GeneralFunction = 279.000
+152: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.800. Year of creation = 1979. GeneralFunction = 224.886
+153: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 4.500. Year of creation = 1988. GeneralFunction = 441.778
+154: It is Procedural: are abstract types present = true. Popularity = 7.600. Year of creation = 1981. GeneralFunction = 260.658
+155: It is Procedural: are abstract types present = true. Popularity = 7.300. Year of creation = 1987. GeneralFunction = 272.192
+156: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.600. Year of creation = 1927. GeneralFunction = 741.154
+157: It is Procedural: are abstract types present = false. Popularity = 6.100. Year of creation = 1997. GeneralFunction = 327.377
+158: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.800. Year of creation = 2007. GeneralFunction = 204.796
+159: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 5.800. Year of creation = 1947. GeneralFunction = 335.690
+160: It is Procedural: are abstract types present = false. Popularity = 5.900. Year of creation = 1955. GeneralFunction = 331.356
+161: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.200. Year of creation = 1936. GeneralFunction = 312.258
+162: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.800. Year of creation = 1982. GeneralFunction = 225.227
+163: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.700. Year of creation = 1994. GeneralFunction = 229.195
+164: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.100. Year of creation = 1953. GeneralFunction = 241.111
+165: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.600. Year of creation = 1971. GeneralFunction = 229.186
+166: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.300. Year of creation = 1944. GeneralFunction = 308.571
+167: It is Procedural: are abstract types present = true. Popularity = 6.900. Year of creation = 1941. GeneralFunction = 281.304
+168: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.700. Year of creation = 2006. GeneralFunction = 426.809
+169: It is Procedural: are abstract types present = true. Popularity = 4.700. Year of creation = 2002. GeneralFunction = 425.957
+170: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.200. Year of creation = 1951. GeneralFunction = 1625.833
+171: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.500. Year of creation = 1960. GeneralFunction = 784.000
+172: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.700. Year of creation = 1981. GeneralFunction = 204.227
+173: It is Procedural: are abstract types present = true. Popularity = 2.400. Year of creation = 2001. GeneralFunction = 833.750
+174: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.700. Year of creation = 1939. GeneralFunction = 289.403
+175: It is Procedural: are abstract types present = false. Popularity = 4.900. Year of creation = 2005. GeneralFunction = 409.184
+176: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.300. Year of creation = 1959. GeneralFunction = 210.645
+177: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.100. Year of creation = 2011. GeneralFunction = 199.109
+178: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.500. Year of creation = 1961. GeneralFunction = 1307.333
+179: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.900. Year of creation = 1924. GeneralFunction = 194.343
+180: It is Procedural: are abstract types present = true. Popularity = 7.900. Year of creation = 1969. GeneralFunction = 249.241
+181: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.500. Year of creation = 1923. GeneralFunction = 1282.000
+182: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.300. Year of creation = 2012. GeneralFunction = 216.344
+183: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 5.800. Year of creation = 1990. GeneralFunction = 343.103
+184: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.400. Year of creation = 1947. GeneralFunction = 231.786
+185: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.500. Year of creation = 1935. GeneralFunction = 552.857
+186: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.300. Year of creation = 1943. GeneralFunction = 208.925
+187: It is Procedural: are abstract types present = false. Popularity = 10.200. Year of creation = 2009. GeneralFunction = 196.961
+188: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 10.300. Year of creation = 1967. GeneralFunction = 190.971
+189: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.700. Year of creation = 2004. GeneralFunction = 206.598
+190: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.600. Year of creation = 2006. GeneralFunction = 1253.750
+191: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 6.900. Year of creation = 1969. GeneralFunction = 285.362
+192: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.300. Year of creation = 2019. GeneralFunction = 217.097
+193: It is Procedural: are abstract types present = false. Popularity = 8.100. Year of creation = 1942. GeneralFunction = 239.753
+194: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.100. Year of creation = 1987. GeneralFunction = 218.352
+195: It is Procedural: are abstract types present = false. Popularity = 1.900. Year of creation = 1964. GeneralFunction = 1033.684
+196: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.000. Year of creation = 1970. GeneralFunction = 394.000
+197: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.500. Year of creation = 1952. GeneralFunction = 229.647
+198: It is Procedural: are abstract types present = true. Popularity = 2.900. Year of creation = 1929. GeneralFunction = 665.172
+199: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.300. Year of creation = 1958. GeneralFunction = 190.097
+200: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.600. Year of creation = 1928. GeneralFunction = 224.186
+201: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.400. Year of creation = 1997. GeneralFunction = 587.353
+202: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.100. Year of creation = 1978. GeneralFunction = 1798.182
+203: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 6.600. Year of creation = 1992. GeneralFunction = 301.818
+204: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.900. Year of creation = 1934. GeneralFunction = 217.303
+205: It is Procedural: are abstract types present = true. Popularity = 9.400. Year of creation = 1963. GeneralFunction = 208.830
+206: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.700. Year of creation = 1980. GeneralFunction = 204.124
+207: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.300. Year of creation = 1961. GeneralFunction = 236.265
+208: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.100. Year of creation = 1925. GeneralFunction = 271.127
+209: It is Procedural: are abstract types present = true. Popularity = 1.600. Year of creation = 1954. GeneralFunction = 1221.250
+210: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.700. Year of creation = 1997. GeneralFunction = 298.060
+211: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.100. Year of creation = 1995. GeneralFunction = 280.986
+212: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 6.600. Year of creation = 1972. GeneralFunction = 298.788
+213: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.500. Year of creation = 1922. GeneralFunction = 427.111
+214: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.600. Year of creation = 2017. GeneralFunction = 210.104
+215: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.400. Year of creation = 1930. GeneralFunction = 205.319
+216: It is Procedural: are abstract types present = false. Popularity = 4.900. Year of creation = 1923. GeneralFunction = 392.449
+217: It is Procedural: are abstract types present = false. Popularity = 10.800. Year of creation = 1964. GeneralFunction = 181.852
+218: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.100. Year of creation = 1978. GeneralFunction = 244.198
+219: It is Procedural: are abstract types present = false. Popularity = 6.800. Year of creation = 2018. GeneralFunction = 296.765
+220: It is Procedural: are abstract types present = false. Popularity = 9.400. Year of creation = 1949. GeneralFunction = 207.340
+221: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.600. Year of creation = 1937. GeneralFunction = 254.868
+222: It is Procedural: are abstract types present = false. Popularity = 2.700. Year of creation = 2009. GeneralFunction = 744.074
+223: It is Procedural: are abstract types present = true. Popularity = 4.000. Year of creation = 1987. GeneralFunction = 496.750
+224: It is Procedural: are abstract types present = true. Popularity = 8.000. Year of creation = 1959. GeneralFunction = 244.875
+225: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.400. Year of creation = 2011. GeneralFunction = 271.757
+226: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.600. Year of creation = 1946. GeneralFunction = 183.585
+227: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.500. Year of creation = 1933. GeneralFunction = 227.412
+228: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 10.400. Year of creation = 1971. GeneralFunction = 189.519
+229: It is Procedural: are abstract types present = true. Popularity = 8.800. Year of creation = 1942. GeneralFunction = 220.682
+230: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.500. Year of creation = 1937. GeneralFunction = 352.182
+231: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.900. Year of creation = 1951. GeneralFunction = 197.071
+232: It is Procedural: are abstract types present = false. Popularity = 10.700. Year of creation = 1963. GeneralFunction = 183.458
+233: It is Procedural: are abstract types present = false. Popularity = 2.600. Year of creation = 1921. GeneralFunction = 738.846
+234: It is Procedural: are abstract types present = false. Popularity = 1.600. Year of creation = 2002. GeneralFunction = 1251.250
+235: It is Procedural: are abstract types present = false. Popularity = 10.200. Year of creation = 1931. GeneralFunction = 189.314
+236: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 3.200. Year of creation = 1976. GeneralFunction = 617.500
+237: It is Procedural: are abstract types present = true. Popularity = 1.600. Year of creation = 1959. GeneralFunction = 1224.375
+238: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.200. Year of creation = 1920. GeneralFunction = 1600.000
+239: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.700. Year of creation = 1953. GeneralFunction = 342.632
+240: It is Procedural: are abstract types present = true. Popularity = 9.900. Year of creation = 1972. GeneralFunction = 199.192
+241: It is Procedural: are abstract types present = true. Popularity = 6.700. Year of creation = 1977. GeneralFunction = 295.075
+242: It is Procedural: are abstract types present = false. Popularity = 5.800. Year of creation = 1938. GeneralFunction = 334.138
+243: It is ObjectOriented: inheritance = SINGLE. Popularity = 4.900. Year of creation = 1962. GeneralFunction = 400.408
+244: It is Procedural: are abstract types present = true. Popularity = 9.400. Year of creation = 1976. GeneralFunction = 210.213
+245: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.100. Year of creation = 1944. GeneralFunction = 273.803
+246: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.100. Year of creation = 1991. GeneralFunction = 280.423
+247: It is Procedural: are abstract types present = false. Popularity = 5.400. Year of creation = 1965. GeneralFunction = 363.889
+248: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.800. Year of creation = 1955. GeneralFunction = 337.069
+249: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.300. Year of creation = 1999. GeneralFunction = 377.170
+250: It is Procedural: are abstract types present = false. Popularity = 5.800. Year of creation = 1958. GeneralFunction = 337.586
+251: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.100. Year of creation = 1974. GeneralFunction = 481.463
+252: It is Procedural: are abstract types present = false. Popularity = 1.900. Year of creation = 1961. GeneralFunction = 1032.105
+253: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.400. Year of creation = 1968. GeneralFunction = 265.946
+254: It is Procedural: are abstract types present = true. Popularity = 2.900. Year of creation = 1981. GeneralFunction = 683.103
+255: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 6.700. Year of creation = 2000. GeneralFunction = 298.507
+256: It is Procedural: are abstract types present = false. Popularity = 7.900. Year of creation = 1981. GeneralFunction = 250.759
+257: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.300. Year of creation = 1973. GeneralFunction = 857.826
+258: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.600. Year of creation = 1952. GeneralFunction = 295.758
+259: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 1.200. Year of creation = 1966. GeneralFunction = 1638.333
+260: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.000. Year of creation = 1977. GeneralFunction = 197.700
+261: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.300. Year of creation = 1990. GeneralFunction = 603.030
+262: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.400. Year of creation = 1952. GeneralFunction = 207.660
+263: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.500. Year of creation = 1933. GeneralFunction = 184.095
+264: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 7.600. Year of creation = 2016. GeneralFunction = 265.263
+265: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.000. Year of creation = 2012. GeneralFunction = 223.556
+266: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.000. Year of creation = 1971. GeneralFunction = 197.100
+267: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.200. Year of creation = 2002. GeneralFunction = 196.275
+268: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.000. Year of creation = 1991. GeneralFunction = 663.667
+269: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.100. Year of creation = 1974. GeneralFunction = 1794.545
+270: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.900. Year of creation = 1949. GeneralFunction = 196.869
+271: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.700. Year of creation = 1956. GeneralFunction = 201.649
+272: It is Procedural: are abstract types present = false. Popularity = 2.300. Year of creation = 2010. GeneralFunction = 873.913
+273: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 4.100. Year of creation = 1964. GeneralFunction = 479.024
+274: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.200. Year of creation = 1942. GeneralFunction = 313.226
+275: It is Procedural: are abstract types present = false. Popularity = 2.000. Year of creation = 1955. GeneralFunction = 977.500
+276: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.000. Year of creation = 1957. GeneralFunction = 391.400
+277: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.600. Year of creation = 1992. GeneralFunction = 553.333
+278: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.400. Year of creation = 1969. GeneralFunction = 1406.429
+279: It is Procedural: are abstract types present = false. Popularity = 10.600. Year of creation = 1925. GeneralFunction = 181.604
+280: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 5.800. Year of creation = 2000. GeneralFunction = 344.828
+281: It is Procedural: are abstract types present = true. Popularity = 3.300. Year of creation = 1941. GeneralFunction = 588.182
+282: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 4.000. Year of creation = 1953. GeneralFunction = 488.250
+283: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.300. Year of creation = 2002. GeneralFunction = 1540.000
+284: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.500. Year of creation = 2015. GeneralFunction = 212.105
+285: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.900. Year of creation = 1971. GeneralFunction = 249.494
+286: It is Procedural: are abstract types present = false. Popularity = 6.500. Year of creation = 1990. GeneralFunction = 306.154
+287: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.900. Year of creation = 1963. GeneralFunction = 332.712
+288: It is Procedural: are abstract types present = true. Popularity = 1.800. Year of creation = 1997. GeneralFunction = 1109.444
+289: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 2.000. Year of creation = 1969. GeneralFunction = 984.500
+290: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.300. Year of creation = 1970. GeneralFunction = 856.522
+291: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 9.600. Year of creation = 1996. GeneralFunction = 207.917
+292: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.100. Year of creation = 1995. GeneralFunction = 327.049
+293: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.900. Year of creation = 1980. GeneralFunction = 181.651
+294: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.200. Year of creation = 1997. GeneralFunction = 243.537
+295: It is Procedural: are abstract types present = false. Popularity = 6.200. Year of creation = 1940. GeneralFunction = 312.903
+296: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.900. Year of creation = 2015. GeneralFunction = 184.862
+297: It is Procedural: are abstract types present = false. Popularity = 10.600. Year of creation = 2003. GeneralFunction = 188.962
+298: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 2.000. Year of creation = 1983. GeneralFunction = 991.500
+299: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 9.300. Year of creation = 1981. GeneralFunction = 213.011
+300: It is Procedural: are abstract types present = true. Popularity = 10.000. Year of creation = 1968. GeneralFunction = 196.800
+301: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.900. Year of creation = 2005. GeneralFunction = 691.379
+302: It is Procedural: are abstract types present = true. Popularity = 9.900. Year of creation = 1936. GeneralFunction = 195.556
+303: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.900. Year of creation = 1939. GeneralFunction = 668.621
+304: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.600. Year of creation = 1975. GeneralFunction = 186.321
+305: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 7.500. Year of creation = 1995. GeneralFunction = 266.000
+306: It is Procedural: are abstract types present = false. Popularity = 9.700. Year of creation = 1938. GeneralFunction = 199.794
+307: It is Procedural: are abstract types present = true. Popularity = 4.200. Year of creation = 1986. GeneralFunction = 472.857
+308: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.400. Year of creation = 1974. GeneralFunction = 235.000
+309: It is Procedural: are abstract types present = false. Popularity = 2.700. Year of creation = 2018. GeneralFunction = 747.407
+310: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.800. Year of creation = 1924. GeneralFunction = 687.143
+311: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 1.400. Year of creation = 1995. GeneralFunction = 1425.000
+312: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 9.100. Year of creation = 1950. GeneralFunction = 214.286
+313: It is Procedural: are abstract types present = false. Popularity = 5.000. Year of creation = 2013. GeneralFunction = 402.600
+314: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.200. Year of creation = 1937. GeneralFunction = 269.028
+315: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.500. Year of creation = 1946. GeneralFunction = 204.842
+316: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.700. Year of creation = 2016. GeneralFunction = 188.411
+317: It is Procedural: are abstract types present = true. Popularity = 9.000. Year of creation = 1974. GeneralFunction = 219.333
+318: It is Procedural: are abstract types present = false. Popularity = 3.200. Year of creation = 1977. GeneralFunction = 617.812
+319: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.700. Year of creation = 1999. GeneralFunction = 206.082
+320: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.500. Year of creation = 2009. GeneralFunction = 1339.333
+321: It is Procedural: are abstract types present = false. Popularity = 3.800. Year of creation = 2010. GeneralFunction = 528.947
+322: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.700. Year of creation = 1971. GeneralFunction = 255.974
+323: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.700. Year of creation = 1958. GeneralFunction = 292.239
+324: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.700. Year of creation = 1986. GeneralFunction = 257.922
+325: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.300. Year of creation = 2014. GeneralFunction = 1549.231
+326: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.300. Year of creation = 1971. GeneralFunction = 270.000
+327: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.700. Year of creation = 1927. GeneralFunction = 520.811
+328: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.800. Year of creation = 1955. GeneralFunction = 287.500
+329: It is Procedural: are abstract types present = false. Popularity = 10.500. Year of creation = 1979. GeneralFunction = 188.476
+330: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.300. Year of creation = 1955. GeneralFunction = 592.424
+331: It is Procedural: are abstract types present = false. Popularity = 7.900. Year of creation = 1949. GeneralFunction = 246.709
+332: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.400. Year of creation = 1953. GeneralFunction = 232.500
+333: It is Procedural: are abstract types present = true. Popularity = 1.600. Year of creation = 2007. GeneralFunction = 1254.375
+334: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.300. Year of creation = 1976. GeneralFunction = 859.130
+335: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.700. Year of creation = 1995. GeneralFunction = 738.889
+336: It is Procedural: are abstract types present = true. Popularity = 10.400. Year of creation = 1980. GeneralFunction = 190.385
+337: It is Procedural: are abstract types present = false. Popularity = 5.300. Year of creation = 1933. GeneralFunction = 364.717
+338: It is Procedural: are abstract types present = false. Popularity = 1.200. Year of creation = 1975. GeneralFunction = 1645.833
+339: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 3.800. Year of creation = 2005. GeneralFunction = 527.632
+340: It is Procedural: are abstract types present = true. Popularity = 9.400. Year of creation = 1975. GeneralFunction = 210.106
+341: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 1.400. Year of creation = 1988. GeneralFunction = 1420.000
+342: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.400. Year of creation = 1986. GeneralFunction = 211.277
+343: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.100. Year of creation = 1979. GeneralFunction = 482.683
+344: It is Procedural: are abstract types present = false. Popularity = 3.400. Year of creation = 2005. GeneralFunction = 589.706
+345: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.700. Year of creation = 1935. GeneralFunction = 522.973
+346: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 7.100. Year of creation = 1940. GeneralFunction = 273.239
+347: It is Procedural: are abstract types present = true. Popularity = 2.100. Year of creation = 2005. GeneralFunction = 954.762
+348: It is Procedural: are abstract types present = false. Popularity = 1.700. Year of creation = 2002. GeneralFunction = 1177.647
+349: It is Procedural: are abstract types present = true. Popularity = 10.200. Year of creation = 1930. GeneralFunction = 189.216
+350: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.900. Year of creation = 2008. GeneralFunction = 692.414
+351: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.000. Year of creation = 1950. GeneralFunction = 487.500
+352: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.100. Year of creation = 1947. GeneralFunction = 192.772
+353: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.100. Year of creation = 1948. GeneralFunction = 927.619
+354: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.900. Year of creation = 1973. GeneralFunction = 181.009
+355: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.200. Year of creation = 1936. GeneralFunction = 605.000
+356: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.200. Year of creation = 1955. GeneralFunction = 375.962
+357: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.900. Year of creation = 1941. GeneralFunction = 245.696
+358: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.900. Year of creation = 1998. GeneralFunction = 289.565
+359: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.200. Year of creation = 1984. GeneralFunction = 241.951
+360: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.300. Year of creation = 1947. GeneralFunction = 367.358
+361: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.100. Year of creation = 1920. GeneralFunction = 468.293
+362: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.800. Year of creation = 1934. GeneralFunction = 690.714
+363: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.800. Year of creation = 1993. GeneralFunction = 343.621
+364: It is Procedural: are abstract types present = false. Popularity = 5.100. Year of creation = 1954. GeneralFunction = 383.137
+365: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.900. Year of creation = 1999. GeneralFunction = 224.607
+366: It is Procedural: are abstract types present = false. Popularity = 4.900. Year of creation = 2016. GeneralFunction = 411.429
+367: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.000. Year of creation = 1981. GeneralFunction = 495.250
+368: It is Procedural: are abstract types present = false. Popularity = 8.500. Year of creation = 2006. GeneralFunction = 236.000
+369: It is Procedural: are abstract types present = false. Popularity = 6.800. Year of creation = 1945. GeneralFunction = 286.029
+370: It is Procedural: are abstract types present = true. Popularity = 4.600. Year of creation = 1927. GeneralFunction = 418.913
+371: It is Procedural: are abstract types present = true. Popularity = 10.700. Year of creation = 2017. GeneralFunction = 188.505
+372: It is Procedural: are abstract types present = true. Popularity = 4.800. Year of creation = 1984. GeneralFunction = 413.333
+373: It is Procedural: are abstract types present = true. Popularity = 9.800. Year of creation = 1921. GeneralFunction = 196.020
+374: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.800. Year of creation = 1984. GeneralFunction = 708.571
+375: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 1.800. Year of creation = 1971. GeneralFunction = 1095.000
+376: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.800. Year of creation = 2000. GeneralFunction = 416.667
+377: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.000. Year of creation = 1922. GeneralFunction = 213.556
+378: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.600. Year of creation = 1953. GeneralFunction = 348.750
+379: It is ObjectOriented: inheritance = INTERFACE. Popularity = 3.200. Year of creation = 1969. GeneralFunction = 615.312
+380: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.800. Year of creation = 1932. GeneralFunction = 197.143
+381: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.000. Year of creation = 1958. GeneralFunction = 391.600
+382: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.000. Year of creation = 2014. GeneralFunction = 402.800
+383: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.300. Year of creation = 1943. GeneralFunction = 844.783
+384: It is Procedural: are abstract types present = false. Popularity = 6.000. Year of creation = 1920. GeneralFunction = 320.000
+385: It is Procedural: are abstract types present = false. Popularity = 10.800. Year of creation = 1994. GeneralFunction = 184.630
+386: It is Procedural: are abstract types present = true. Popularity = 10.600. Year of creation = 2004. GeneralFunction = 189.057
+387: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.100. Year of creation = 2006. GeneralFunction = 247.654
+388: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.700. Year of creation = 1960. GeneralFunction = 254.545
+389: It is Procedural: are abstract types present = true. Popularity = 8.300. Year of creation = 1939. GeneralFunction = 233.614
+390: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 1.100. Year of creation = 1955. GeneralFunction = 1777.273
+391: It is Procedural: are abstract types present = true. Popularity = 9.900. Year of creation = 2000. GeneralFunction = 202.020
+392: It is Procedural: are abstract types present = false. Popularity = 8.000. Year of creation = 1921. GeneralFunction = 240.125
+393: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.600. Year of creation = 1920. GeneralFunction = 417.391
+394: It is Procedural: are abstract types present = true. Popularity = 8.400. Year of creation = 1935. GeneralFunction = 230.357
+395: It is Procedural: are abstract types present = false. Popularity = 2.500. Year of creation = 1957. GeneralFunction = 782.800
+396: It is Procedural: are abstract types present = true. Popularity = 3.200. Year of creation = 1975. GeneralFunction = 617.188
+397: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.500. Year of creation = 1937. GeneralFunction = 553.429
+398: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.300. Year of creation = 1999. GeneralFunction = 605.758
+399: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.700. Year of creation = 2004. GeneralFunction = 230.345
+400: It is Procedural: are abstract types present = true. Popularity = 8.300. Year of creation = 1986. GeneralFunction = 239.277
+401: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.500. Year of creation = 1956. GeneralFunction = 300.923
+402: It is Procedural: are abstract types present = true. Popularity = 9.000. Year of creation = 1981. GeneralFunction = 220.111
+403: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.800. Year of creation = 1960. GeneralFunction = 408.333
+404: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.500. Year of creation = 1941. GeneralFunction = 431.333
+405: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.800. Year of creation = 1925. GeneralFunction = 283.088
+406: It is Procedural: are abstract types present = false. Popularity = 6.900. Year of creation = 1925. GeneralFunction = 278.986
+407: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.400. Year of creation = 1928. GeneralFunction = 438.182
+408: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.100. Year of creation = 1925. GeneralFunction = 469.512
+409: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 2.700. Year of creation = 1960. GeneralFunction = 725.926
+410: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.100. Year of creation = 1993. GeneralFunction = 326.721
+411: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.400. Year of creation = 2012. GeneralFunction = 193.462
+412: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.600. Year of creation = 1991. GeneralFunction = 355.536
+413: It is Procedural: are abstract types present = false. Popularity = 3.700. Year of creation = 2008. GeneralFunction = 542.703
+414: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.700. Year of creation = 1954. GeneralFunction = 342.807
+415: It is Procedural: are abstract types present = true. Popularity = 4.800. Year of creation = 1970. GeneralFunction = 410.417
+416: It is Procedural: are abstract types present = true. Popularity = 7.600. Year of creation = 2016. GeneralFunction = 265.263
+417: It is Procedural: are abstract types present = false. Popularity = 3.500. Year of creation = 1944. GeneralFunction = 555.429
+418: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.000. Year of creation = 1952. GeneralFunction = 278.857
+419: It is Procedural: are abstract types present = true. Popularity = 4.900. Year of creation = 1975. GeneralFunction = 403.061
+420: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.900. Year of creation = 1940. GeneralFunction = 281.159
+421: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.600. Year of creation = 1971. GeneralFunction = 298.636
+422: It is ObjectOriented: inheritance = INTERFACE. Popularity = 3.100. Year of creation = 1998. GeneralFunction = 644.516
+423: It is Procedural: are abstract types present = false. Popularity = 4.900. Year of creation = 1951. GeneralFunction = 398.163
+424: It is Procedural: are abstract types present = true. Popularity = 4.200. Year of creation = 2017. GeneralFunction = 480.238
+425: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.600. Year of creation = 1966. GeneralFunction = 351.071
+426: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 1.100. Year of creation = 1976. GeneralFunction = 1796.364
+427: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.200. Year of creation = 1986. GeneralFunction = 194.706
+428: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.700. Year of creation = 1953. GeneralFunction = 342.632
+429: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 5.900. Year of creation = 1999. GeneralFunction = 338.814
+430: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.400. Year of creation = 2016. GeneralFunction = 315.000
+431: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.400. Year of creation = 1971. GeneralFunction = 234.643
+432: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.800. Year of creation = 1932. GeneralFunction = 247.692
+433: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 10.500. Year of creation = 1975. GeneralFunction = 188.095
+434: It is Procedural: are abstract types present = true. Popularity = 9.900. Year of creation = 1988. GeneralFunction = 200.808
+435: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.200. Year of creation = 1961. GeneralFunction = 316.290
+436: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.800. Year of creation = 1937. GeneralFunction = 197.653
+437: It is Procedural: are abstract types present = false. Popularity = 2.300. Year of creation = 1922. GeneralFunction = 835.652
+438: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 3.800. Year of creation = 1929. GeneralFunction = 507.632
+439: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.000. Year of creation = 1982. GeneralFunction = 198.200
+440: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.600. Year of creation = 1979. GeneralFunction = 299.848
+441: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.400. Year of creation = 1932. GeneralFunction = 301.875
+442: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 7.400. Year of creation = 1925. GeneralFunction = 260.135
+443: It is Procedural: are abstract types present = false. Popularity = 3.300. Year of creation = 1973. GeneralFunction = 597.879
+444: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.400. Year of creation = 1968. GeneralFunction = 189.231
+445: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.700. Year of creation = 1931. GeneralFunction = 521.892
+446: It is Procedural: are abstract types present = true. Popularity = 2.900. Year of creation = 1971. GeneralFunction = 679.655
+447: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 2.800. Year of creation = 1966. GeneralFunction = 702.143
+448: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.600. Year of creation = 1957. GeneralFunction = 752.692
+449: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.900. Year of creation = 1985. GeneralFunction = 508.974
+450: It is Procedural: are abstract types present = true. Popularity = 9.400. Year of creation = 1978. GeneralFunction = 210.426
+451: It is Procedural: are abstract types present = false. Popularity = 6.600. Year of creation = 2010. GeneralFunction = 304.545
+452: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.300. Year of creation = 1924. GeneralFunction = 186.796
+453: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 2.000. Year of creation = 1994. GeneralFunction = 997.000
+454: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.400. Year of creation = 1966. GeneralFunction = 209.149
+455: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 1.000. Year of creation = 1974. GeneralFunction = 1974.000
+456: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 4.400. Year of creation = 1922. GeneralFunction = 436.818
+457: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.100. Year of creation = 1995. GeneralFunction = 246.296
+458: It is Procedural: are abstract types present = true. Popularity = 7.500. Year of creation = 1940. GeneralFunction = 258.667
+459: It is ObjectOriented: inheritance = INTERFACE. Popularity = 3.300. Year of creation = 1986. GeneralFunction = 601.818
+460: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.500. Year of creation = 1956. GeneralFunction = 230.118
+461: It is ObjectOriented: inheritance = SINGLE. Popularity = 4.900. Year of creation = 1992. GeneralFunction = 406.531
+462: It is Procedural: are abstract types present = false. Popularity = 1.700. Year of creation = 1988. GeneralFunction = 1169.412
+463: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.600. Year of creation = 1967. GeneralFunction = 351.250
+464: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.500. Year of creation = 1952. GeneralFunction = 557.714
+465: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.600. Year of creation = 1980. GeneralFunction = 206.250
+466: It is Procedural: are abstract types present = true. Popularity = 10.200. Year of creation = 1944. GeneralFunction = 190.588
+467: It is Procedural: are abstract types present = true. Popularity = 9.600. Year of creation = 1937. GeneralFunction = 201.771
+468: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.200. Year of creation = 1981. GeneralFunction = 241.585
+469: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.200. Year of creation = 1944. GeneralFunction = 462.857
+470: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.800. Year of creation = 2005. GeneralFunction = 227.841
+471: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.000. Year of creation = 1920. GeneralFunction = 213.333
+472: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.100. Year of creation = 1920. GeneralFunction = 210.989
+473: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.400. Year of creation = 2003. GeneralFunction = 312.969
+474: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 10.100. Year of creation = 1944. GeneralFunction = 192.475
+475: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 8.100. Year of creation = 1958. GeneralFunction = 241.728
+476: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.600. Year of creation = 1969. GeneralFunction = 228.953
+477: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.700. Year of creation = 1927. GeneralFunction = 338.070
+478: It is Procedural: are abstract types present = false. Popularity = 1.600. Year of creation = 1975. GeneralFunction = 1234.375
+479: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.600. Year of creation = 2010. GeneralFunction = 1256.250
+480: It is Procedural: are abstract types present = true. Popularity = 2.200. Year of creation = 1930. GeneralFunction = 877.273
+481: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.500. Year of creation = 1950. GeneralFunction = 205.263
+482: It is Procedural: are abstract types present = false. Popularity = 3.100. Year of creation = 1953. GeneralFunction = 630.000
+483: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.100. Year of creation = 2004. GeneralFunction = 282.254
+484: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.500. Year of creation = 2005. GeneralFunction = 308.462
+485: It is Procedural: are abstract types present = false. Popularity = 5.200. Year of creation = 1941. GeneralFunction = 373.269
+486: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.700. Year of creation = 1936. GeneralFunction = 523.243
+487: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.200. Year of creation = 1992. GeneralFunction = 276.667
+488: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.700. Year of creation = 1942. GeneralFunction = 181.495
+489: It is Procedural: are abstract types present = false. Popularity = 8.400. Year of creation = 2001. GeneralFunction = 238.214
+490: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.500. Year of creation = 1994. GeneralFunction = 234.588
+491: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 6.400. Year of creation = 1957. GeneralFunction = 305.781
+492: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.100. Year of creation = 2013. GeneralFunction = 221.209
+493: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.100. Year of creation = 1982. GeneralFunction = 244.691
+494: It is Procedural: are abstract types present = false. Popularity = 3.400. Year of creation = 2010. GeneralFunction = 591.176
+495: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.700. Year of creation = 1996. GeneralFunction = 259.221
+496: It is Procedural: are abstract types present = true. Popularity = 1.500. Year of creation = 1929. GeneralFunction = 1286.000
+497: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.800. Year of creation = 2001. GeneralFunction = 714.643
+498: It is Procedural: are abstract types present = true. Popularity = 7.300. Year of creation = 2014. GeneralFunction = 275.890
+499: It is Procedural: are abstract types present = true. Popularity = 9.100. Year of creation = 2006. GeneralFunction = 220.440
+500: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 8.800. Year of creation = 1935. GeneralFunction = 219.886
+501: It is Procedural: are abstract types present = false. Popularity = 5.100. Year of creation = 1988. GeneralFunction = 389.804
+502: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.000. Year of creation = 1986. GeneralFunction = 1986.000
+503: It is Procedural: are abstract types present = true. Popularity = 1.200. Year of creation = 1946. GeneralFunction = 1621.667
+504: It is Procedural: are abstract types present = true. Popularity = 4.300. Year of creation = 1920. GeneralFunction = 446.512
+505: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 5.200. Year of creation = 2012. GeneralFunction = 386.923
+506: It is Procedural: are abstract types present = false. Popularity = 3.700. Year of creation = 1987. GeneralFunction = 537.027
+507: It is Procedural: are abstract types present = true. Popularity = 8.900. Year of creation = 1993. GeneralFunction = 223.933
+508: It is Procedural: are abstract types present = false. Popularity = 3.100. Year of creation = 1961. GeneralFunction = 632.581
+509: It is Procedural: are abstract types present = true. Popularity = 10.200. Year of creation = 1996. GeneralFunction = 195.686
+510: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.500. Year of creation = 1990. GeneralFunction = 234.118
+511: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.200. Year of creation = 2005. GeneralFunction = 244.512
+512: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 5.900. Year of creation = 1965. GeneralFunction = 333.051
+513: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.400. Year of creation = 1922. GeneralFunction = 1372.857
+514: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.100. Year of creation = 1939. GeneralFunction = 213.077
+515: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.100. Year of creation = 1925. GeneralFunction = 190.594
+516: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.700. Year of creation = 1974. GeneralFunction = 184.486
+517: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.200. Year of creation = 1988. GeneralFunction = 382.308
+518: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.100. Year of creation = 1937. GeneralFunction = 191.782
+519: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.700. Year of creation = 1965. GeneralFunction = 727.778
+520: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.400. Year of creation = 1966. GeneralFunction = 189.038
+521: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.600. Year of creation = 1930. GeneralFunction = 344.643
+522: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.500. Year of creation = 1973. GeneralFunction = 187.905
+523: It is Procedural: are abstract types present = true. Popularity = 7.200. Year of creation = 1995. GeneralFunction = 277.083
+524: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.500. Year of creation = 1973. GeneralFunction = 303.538
+525: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.800. Year of creation = 1949. GeneralFunction = 180.463
+526: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 3.300. Year of creation = 2014. GeneralFunction = 610.303
+527: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.200. Year of creation = 1933. GeneralFunction = 878.636
+528: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.000. Year of creation = 1984. GeneralFunction = 992.000
+529: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 2.700. Year of creation = 2004. GeneralFunction = 742.222
+530: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 1.400. Year of creation = 1981. GeneralFunction = 1415.000
+531: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.300. Year of creation = 1922. GeneralFunction = 835.652
+532: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.200. Year of creation = 1974. GeneralFunction = 214.565
+533: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.500. Year of creation = 1993. GeneralFunction = 1328.667
+534: It is Procedural: are abstract types present = true. Popularity = 1.700. Year of creation = 2000. GeneralFunction = 1176.471
+535: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.500. Year of creation = 1923. GeneralFunction = 183.143
+536: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.100. Year of creation = 1938. GeneralFunction = 239.259
+537: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.900. Year of creation = 1953. GeneralFunction = 197.273
+538: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.100. Year of creation = 1970. GeneralFunction = 480.488
+539: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.800. Year of creation = 1990. GeneralFunction = 710.714
+540: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.400. Year of creation = 1946. GeneralFunction = 187.115
+541: It is Procedural: are abstract types present = true. Popularity = 4.200. Year of creation = 1950. GeneralFunction = 464.286
+542: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.400. Year of creation = 1989. GeneralFunction = 585.000
+543: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.900. Year of creation = 1922. GeneralFunction = 392.245
+544: It is Procedural: are abstract types present = false. Popularity = 7.800. Year of creation = 1971. GeneralFunction = 252.692
+545: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 1.100. Year of creation = 1961. GeneralFunction = 1782.727
+546: It is Procedural: are abstract types present = false. Popularity = 10.200. Year of creation = 1924. GeneralFunction = 188.627
+547: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.700. Year of creation = 1957. GeneralFunction = 201.753
+548: It is Procedural: are abstract types present = true. Popularity = 4.500. Year of creation = 1954. GeneralFunction = 434.222
+549: It is Procedural: are abstract types present = true. Popularity = 1.100. Year of creation = 2014. GeneralFunction = 1830.909
+550: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.900. Year of creation = 1989. GeneralFunction = 223.483
+551: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.000. Year of creation = 1942. GeneralFunction = 215.778
+552: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.700. Year of creation = 2002. GeneralFunction = 187.103
+553: It is Procedural: are abstract types present = true. Popularity = 4.100. Year of creation = 1976. GeneralFunction = 481.951
+554: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 8.100. Year of creation = 1951. GeneralFunction = 240.864
+555: It is Procedural: are abstract types present = false. Popularity = 4.600. Year of creation = 1962. GeneralFunction = 426.522
+556: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.800. Year of creation = 1942. GeneralFunction = 285.588
+557: It is Procedural: are abstract types present = true. Popularity = 5.200. Year of creation = 1978. GeneralFunction = 380.385
+558: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.900. Year of creation = 1968. GeneralFunction = 198.788
+559: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.900. Year of creation = 1963. GeneralFunction = 503.333
+560: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.400. Year of creation = 1965. GeneralFunction = 265.541
+561: It is Procedural: are abstract types present = true. Popularity = 4.100. Year of creation = 1997. GeneralFunction = 487.073
+562: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.400. Year of creation = 1920. GeneralFunction = 204.255
+563: It is Procedural: are abstract types present = false. Popularity = 8.200. Year of creation = 2007. GeneralFunction = 244.756
+564: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.600. Year of creation = 1956. GeneralFunction = 203.750
+565: It is Procedural: are abstract types present = true. Popularity = 9.800. Year of creation = 1968. GeneralFunction = 200.816
+566: It is Procedural: are abstract types present = true. Popularity = 9.800. Year of creation = 2002. GeneralFunction = 204.286
+567: It is Procedural: are abstract types present = false. Popularity = 10.600. Year of creation = 1980. GeneralFunction = 186.792
+568: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 7.600. Year of creation = 1944. GeneralFunction = 255.789
+569: It is ObjectOriented: inheritance = INTERFACE. Popularity = 3.500. Year of creation = 1998. GeneralFunction = 570.857
+570: It is Procedural: are abstract types present = false. Popularity = 1.700. Year of creation = 1980. GeneralFunction = 1164.706
+571: It is Procedural: are abstract types present = false. Popularity = 6.300. Year of creation = 2008. GeneralFunction = 318.730
+572: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 10.500. Year of creation = 2004. GeneralFunction = 190.857
+573: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.100. Year of creation = 2001. GeneralFunction = 392.353
+574: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.400. Year of creation = 1928. GeneralFunction = 260.541
+575: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.500. Year of creation = 1944. GeneralFunction = 555.429
+576: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.000. Year of creation = 2016. GeneralFunction = 336.000
+577: It is Procedural: are abstract types present = true. Popularity = 1.200. Year of creation = 1933. GeneralFunction = 1610.833
+578: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.500. Year of creation = 1960. GeneralFunction = 261.333
+579: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.800. Year of creation = 2000. GeneralFunction = 294.118
+580: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.200. Year of creation = 1928. GeneralFunction = 235.122
+581: It is Procedural: are abstract types present = false. Popularity = 8.800. Year of creation = 2000. GeneralFunction = 227.273
+582: It is Procedural: are abstract types present = false. Popularity = 6.700. Year of creation = 2011. GeneralFunction = 300.149
+583: It is Procedural: are abstract types present = false. Popularity = 6.400. Year of creation = 1927. GeneralFunction = 301.094
+584: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.500. Year of creation = 1943. GeneralFunction = 228.588
+585: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.700. Year of creation = 1939. GeneralFunction = 199.897
+586: It is Procedural: are abstract types present = false. Popularity = 1.400. Year of creation = 1972. GeneralFunction = 1408.571
+587: It is Procedural: are abstract types present = true. Popularity = 10.700. Year of creation = 2014. GeneralFunction = 188.224
+588: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.400. Year of creation = 1977. GeneralFunction = 823.750
+589: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.900. Year of creation = 1921. GeneralFunction = 662.414
+590: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.700. Year of creation = 1940. GeneralFunction = 524.324
+591: It is Procedural: are abstract types present = false. Popularity = 3.600. Year of creation = 1981. GeneralFunction = 550.278
+592: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.900. Year of creation = 1961. GeneralFunction = 400.204
+593: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.500. Year of creation = 1945. GeneralFunction = 432.222
+594: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.100. Year of creation = 1954. GeneralFunction = 193.465
+595: It is Procedural: are abstract types present = false. Popularity = 5.300. Year of creation = 1924. GeneralFunction = 363.019
+596: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.100. Year of creation = 1981. GeneralFunction = 1800.909
+597: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.700. Year of creation = 2000. GeneralFunction = 540.541
+598: It is Procedural: are abstract types present = false. Popularity = 3.700. Year of creation = 1943. GeneralFunction = 525.135
+599: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.000. Year of creation = 1936. GeneralFunction = 242.000
+600: It is Procedural: are abstract types present = false. Popularity = 8.300. Year of creation = 1995. GeneralFunction = 240.361
+601: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.200. Year of creation = 1945. GeneralFunction = 884.091
+602: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.800. Year of creation = 2008. GeneralFunction = 1115.556
+603: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.900. Year of creation = 1991. GeneralFunction = 252.025
+604: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.600. Year of creation = 1956. GeneralFunction = 227.442
+605: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.100. Year of creation = 1936. GeneralFunction = 212.747
+606: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.100. Year of creation = 1945. GeneralFunction = 213.736
+607: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.000. Year of creation = 1953. GeneralFunction = 217.000
+608: It is Procedural: are abstract types present = false. Popularity = 2.700. Year of creation = 1928. GeneralFunction = 714.074
+609: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.200. Year of creation = 1923. GeneralFunction = 310.161
+610: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.800. Year of creation = 1931. GeneralFunction = 178.796
+611: It is Procedural: are abstract types present = true. Popularity = 8.100. Year of creation = 2014. GeneralFunction = 248.642
+612: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.400. Year of creation = 1969. GeneralFunction = 234.405
+613: It is Procedural: are abstract types present = true. Popularity = 10.000. Year of creation = 1926. GeneralFunction = 192.600
+614: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.500. Year of creation = 2005. GeneralFunction = 211.053
+615: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.300. Year of creation = 1985. GeneralFunction = 315.079
+616: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.300. Year of creation = 2017. GeneralFunction = 469.070
+617: It is Procedural: are abstract types present = true. Popularity = 8.000. Year of creation = 1972. GeneralFunction = 246.500
+618: It is Procedural: are abstract types present = false. Popularity = 3.200. Year of creation = 2014. GeneralFunction = 629.375
+619: It is Procedural: are abstract types present = true. Popularity = 2.900. Year of creation = 2000. GeneralFunction = 689.655
+620: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.300. Year of creation = 2016. GeneralFunction = 242.892
+621: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 1.600. Year of creation = 1961. GeneralFunction = 1225.625
+622: It is Procedural: are abstract types present = false. Popularity = 4.600. Year of creation = 1986. GeneralFunction = 431.739
+623: It is Procedural: are abstract types present = false. Popularity = 7.100. Year of creation = 1968. GeneralFunction = 277.183
+624: It is Procedural: are abstract types present = false. Popularity = 1.600. Year of creation = 1923. GeneralFunction = 1201.875
+625: It is Procedural: are abstract types present = false. Popularity = 1.600. Year of creation = 1976. GeneralFunction = 1235.000
+626: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 1.100. Year of creation = 1930. GeneralFunction = 1754.545
+627: It is Procedural: are abstract types present = true. Popularity = 4.500. Year of creation = 1990. GeneralFunction = 442.222
+628: It is ObjectOriented: inheritance = INTERFACE. Popularity = 3.600. Year of creation = 2010. GeneralFunction = 558.333
+629: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 1.300. Year of creation = 1974. GeneralFunction = 1518.462
+630: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.000. Year of creation = 2001. GeneralFunction = 667.000
+631: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.500. Year of creation = 1991. GeneralFunction = 209.579
+632: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.700. Year of creation = 1968. GeneralFunction = 226.207
+633: It is Procedural: are abstract types present = false. Popularity = 5.800. Year of creation = 1922. GeneralFunction = 331.379
+634: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.300. Year of creation = 1991. GeneralFunction = 375.660
+635: It is Procedural: are abstract types present = false. Popularity = 6.200. Year of creation = 1937. GeneralFunction = 312.419
+636: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 4.500. Year of creation = 1922. GeneralFunction = 427.111
+637: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.800. Year of creation = 1980. GeneralFunction = 521.053
+638: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.900. Year of creation = 2011. GeneralFunction = 410.408
+639: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.700. Year of creation = 2002. GeneralFunction = 541.081
+640: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.900. Year of creation = 1968. GeneralFunction = 504.615
+641: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.900. Year of creation = 2009. GeneralFunction = 410.000
+642: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 1.000. Year of creation = 2005. GeneralFunction = 2005.000
+643: It is Procedural: are abstract types present = true. Popularity = 9.000. Year of creation = 1943. GeneralFunction = 215.889
+644: It is Procedural: are abstract types present = true. Popularity = 8.200. Year of creation = 1985. GeneralFunction = 242.073
+645: It is Procedural: are abstract types present = false. Popularity = 1.700. Year of creation = 1985. GeneralFunction = 1167.647
+646: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.100. Year of creation = 1945. GeneralFunction = 192.574
+647: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 6.800. Year of creation = 2012. GeneralFunction = 295.882
+648: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.300. Year of creation = 1972. GeneralFunction = 372.075
+649: It is Procedural: are abstract types present = false. Popularity = 7.100. Year of creation = 1959. GeneralFunction = 275.915
+650: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.100. Year of creation = 1994. GeneralFunction = 246.173
+651: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.700. Year of creation = 1986. GeneralFunction = 185.607
+652: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.400. Year of creation = 2011. GeneralFunction = 591.471
+653: It is Procedural: are abstract types present = false. Popularity = 9.100. Year of creation = 1949. GeneralFunction = 214.176
+654: It is Procedural: are abstract types present = false. Popularity = 9.500. Year of creation = 1976. GeneralFunction = 208.000
+655: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.700. Year of creation = 1950. GeneralFunction = 1147.059
+656: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.400. Year of creation = 1952. GeneralFunction = 305.000
+657: It is Procedural: are abstract types present = true. Popularity = 3.200. Year of creation = 1932. GeneralFunction = 603.750
+658: It is Procedural: are abstract types present = true. Popularity = 4.700. Year of creation = 1926. GeneralFunction = 409.787
+659: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.300. Year of creation = 1999. GeneralFunction = 605.758
+660: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.000. Year of creation = 1968. GeneralFunction = 246.000
+661: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.500. Year of creation = 1978. GeneralFunction = 439.556
+662: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 1.500. Year of creation = 1975. GeneralFunction = 1316.667
+663: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.500. Year of creation = 1959. GeneralFunction = 1306.000
+664: It is Procedural: are abstract types present = false. Popularity = 10.100. Year of creation = 1948. GeneralFunction = 192.871
+665: It is Procedural: are abstract types present = true. Popularity = 7.400. Year of creation = 1937. GeneralFunction = 261.757
+666: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 4.900. Year of creation = 1985. GeneralFunction = 405.102
+667: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.300. Year of creation = 1993. GeneralFunction = 376.038
+668: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.800. Year of creation = 1965. GeneralFunction = 1091.667
+669: It is Procedural: are abstract types present = true. Popularity = 1.100. Year of creation = 1960. GeneralFunction = 1781.818
+670: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.800. Year of creation = 1973. GeneralFunction = 224.205
+671: It is Procedural: are abstract types present = false. Popularity = 7.900. Year of creation = 1999. GeneralFunction = 253.038
+672: It is Procedural: are abstract types present = false. Popularity = 4.800. Year of creation = 1944. GeneralFunction = 405.000
+673: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.000. Year of creation = 1980. GeneralFunction = 990.000
+674: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.500. Year of creation = 1999. GeneralFunction = 307.538
+675: It is Procedural: are abstract types present = true. Popularity = 1.400. Year of creation = 2019. GeneralFunction = 1442.143
+676: It is Procedural: are abstract types present = true. Popularity = 10.500. Year of creation = 1976. GeneralFunction = 188.190
+677: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.600. Year of creation = 1931. GeneralFunction = 182.170
+678: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.400. Year of creation = 1927. GeneralFunction = 260.405
+679: It is Procedural: are abstract types present = false. Popularity = 7.100. Year of creation = 2000. GeneralFunction = 281.690
+680: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.100. Year of creation = 1947. GeneralFunction = 192.772
+681: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.000. Year of creation = 1990. GeneralFunction = 248.750
+682: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.100. Year of creation = 1977. GeneralFunction = 217.253
+683: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 3.700. Year of creation = 1937. GeneralFunction = 523.514
+684: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.500. Year of creation = 1998. GeneralFunction = 235.059
+685: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 1.500. Year of creation = 1984. GeneralFunction = 1322.667
+686: It is Procedural: are abstract types present = false. Popularity = 1.000. Year of creation = 1953. GeneralFunction = 1953.000
+687: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 2.600. Year of creation = 1982. GeneralFunction = 762.308
+688: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.000. Year of creation = 1950. GeneralFunction = 650.000
+689: It is Procedural: are abstract types present = true. Popularity = 3.800. Year of creation = 1994. GeneralFunction = 524.737
+690: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 10.100. Year of creation = 1993. GeneralFunction = 197.327
+691: It is Procedural: are abstract types present = true. Popularity = 7.500. Year of creation = 1983. GeneralFunction = 264.400
+692: It is Procedural: are abstract types present = true. Popularity = 3.000. Year of creation = 1941. GeneralFunction = 647.000
+693: It is Procedural: are abstract types present = true. Popularity = 8.200. Year of creation = 1944. GeneralFunction = 237.073
+694: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.900. Year of creation = 1960. GeneralFunction = 400.000
+695: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.400. Year of creation = 1939. GeneralFunction = 302.969
+696: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 4.800. Year of creation = 1965. GeneralFunction = 409.375
+697: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.900. Year of creation = 1973. GeneralFunction = 1038.421
+698: It is Procedural: are abstract types present = true. Popularity = 7.100. Year of creation = 1981. GeneralFunction = 279.014
+699: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 8.900. Year of creation = 1928. GeneralFunction = 216.629
+700: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.100. Year of creation = 1965. GeneralFunction = 276.761
+701: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.500. Year of creation = 2008. GeneralFunction = 446.222
+702: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.500. Year of creation = 1936. GeneralFunction = 553.143
+703: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.100. Year of creation = 1940. GeneralFunction = 273.239
+704: It is Procedural: are abstract types present = true. Popularity = 3.900. Year of creation = 1986. GeneralFunction = 509.231
+705: It is Procedural: are abstract types present = true. Popularity = 8.800. Year of creation = 2009. GeneralFunction = 228.295
+706: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 7.800. Year of creation = 1970. GeneralFunction = 252.564
+707: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 7.800. Year of creation = 1967. GeneralFunction = 252.179
+708: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.900. Year of creation = 1923. GeneralFunction = 663.103
+709: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.300. Year of creation = 2010. GeneralFunction = 379.245
+710: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.400. Year of creation = 2003. GeneralFunction = 1430.714
+711: It is ObjectOriented: inheritance = SINGLE. Popularity = 4.600. Year of creation = 1983. GeneralFunction = 431.087
+712: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.900. Year of creation = 1986. GeneralFunction = 405.306
+713: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.500. Year of creation = 1967. GeneralFunction = 562.000
+714: It is Procedural: are abstract types present = false. Popularity = 9.700. Year of creation = 1948. GeneralFunction = 200.825
+715: It is Procedural: are abstract types present = true. Popularity = 5.300. Year of creation = 1932. GeneralFunction = 364.528
+716: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.700. Year of creation = 2012. GeneralFunction = 231.264
+717: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 6.100. Year of creation = 1942. GeneralFunction = 318.361
+718: It is Procedural: are abstract types present = false. Popularity = 4.200. Year of creation = 2016. GeneralFunction = 480.000
+719: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.400. Year of creation = 1950. GeneralFunction = 443.182
+720: It is Procedural: are abstract types present = true. Popularity = 9.900. Year of creation = 1959. GeneralFunction = 197.879
+721: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.900. Year of creation = 1965. GeneralFunction = 333.051
+722: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.500. Year of creation = 1940. GeneralFunction = 776.000
+723: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.600. Year of creation = 1966. GeneralFunction = 756.154
+724: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.400. Year of creation = 1981. GeneralFunction = 267.703
+725: It is Procedural: are abstract types present = true. Popularity = 2.000. Year of creation = 2010. GeneralFunction = 1005.000
+726: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.500. Year of creation = 1925. GeneralFunction = 202.632
+727: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.400. Year of creation = 1959. GeneralFunction = 445.227
+728: It is Procedural: are abstract types present = true. Popularity = 8.700. Year of creation = 2013. GeneralFunction = 231.379
+729: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.800. Year of creation = 1920. GeneralFunction = 400.000
+730: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.200. Year of creation = 1979. GeneralFunction = 319.194
+731: It is Procedural: are abstract types present = true. Popularity = 6.800. Year of creation = 1961. GeneralFunction = 288.382
+732: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.700. Year of creation = 1922. GeneralFunction = 179.626
+733: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 5.200. Year of creation = 1940. GeneralFunction = 373.077
+734: It is Procedural: are abstract types present = true. Popularity = 5.000. Year of creation = 1951. GeneralFunction = 390.200
+735: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 1.500. Year of creation = 1983. GeneralFunction = 1322.000
+736: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 5.000. Year of creation = 1923. GeneralFunction = 384.600
+737: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.400. Year of creation = 1998. GeneralFunction = 370.000
+738: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.900. Year of creation = 1998. GeneralFunction = 224.494
+739: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 2.800. Year of creation = 2017. GeneralFunction = 720.357
+740: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.900. Year of creation = 1945. GeneralFunction = 329.661
+741: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.400. Year of creation = 1986. GeneralFunction = 268.378
+742: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.000. Year of creation = 1965. GeneralFunction = 245.625
+743: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.700. Year of creation = 1977. GeneralFunction = 420.638
+744: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.700. Year of creation = 1990. GeneralFunction = 258.442
+745: It is Procedural: are abstract types present = false. Popularity = 7.700. Year of creation = 1985. GeneralFunction = 257.792
+746: It is Procedural: are abstract types present = false. Popularity = 7.400. Year of creation = 2009. GeneralFunction = 271.486
+747: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.400. Year of creation = 1967. GeneralFunction = 364.259
+748: It is Procedural: are abstract types present = false. Popularity = 9.200. Year of creation = 2006. GeneralFunction = 218.043
+749: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.600. Year of creation = 1941. GeneralFunction = 746.538
+750: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.900. Year of creation = 1969. GeneralFunction = 249.241
+751: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.000. Year of creation = 1932. GeneralFunction = 322.000
+752: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.400. Year of creation = 1984. GeneralFunction = 826.667
+753: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.700. Year of creation = 1945. GeneralFunction = 720.370
+754: It is Procedural: are abstract types present = true. Popularity = 7.900. Year of creation = 1953. GeneralFunction = 247.215
+755: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.400. Year of creation = 2005. GeneralFunction = 835.417
+756: It is Procedural: are abstract types present = false. Popularity = 6.200. Year of creation = 1964. GeneralFunction = 316.774
+757: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.000. Year of creation = 1922. GeneralFunction = 240.250
+758: It is Procedural: are abstract types present = false. Popularity = 5.400. Year of creation = 1990. GeneralFunction = 368.519
+759: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.800. Year of creation = 2010. GeneralFunction = 257.692
+760: It is Procedural: are abstract types present = false. Popularity = 6.600. Year of creation = 1932. GeneralFunction = 292.727
+761: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 10.700. Year of creation = 1939. GeneralFunction = 181.215
+762: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.100. Year of creation = 1963. GeneralFunction = 384.902
+763: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.700. Year of creation = 1977. GeneralFunction = 1162.941
+764: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.100. Year of creation = 2001. GeneralFunction = 645.484
+765: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 4.700. Year of creation = 1926. GeneralFunction = 409.787
+766: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.900. Year of creation = 1987. GeneralFunction = 223.258
+767: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.500. Year of creation = 1990. GeneralFunction = 234.118
+768: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.300. Year of creation = 1979. GeneralFunction = 314.127
+769: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.900. Year of creation = 2009. GeneralFunction = 184.312
+770: It is Procedural: are abstract types present = true. Popularity = 10.600. Year of creation = 2003. GeneralFunction = 188.962
+771: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.500. Year of creation = 1926. GeneralFunction = 296.308
+772: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.900. Year of creation = 1964. GeneralFunction = 248.608
+773: It is Procedural: are abstract types present = false. Popularity = 1.600. Year of creation = 2002. GeneralFunction = 1251.250
+774: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.600. Year of creation = 1968. GeneralFunction = 298.182
+775: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.400. Year of creation = 1984. GeneralFunction = 826.667
+776: It is Procedural: are abstract types present = true. Popularity = 9.500. Year of creation = 1990. GeneralFunction = 209.474
+777: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.600. Year of creation = 2016. GeneralFunction = 438.261
+778: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 1.000. Year of creation = 1985. GeneralFunction = 1985.000
+779: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.200. Year of creation = 2005. GeneralFunction = 217.935
+780: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.200. Year of creation = 2007. GeneralFunction = 323.710
+781: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 2.700. Year of creation = 2006. GeneralFunction = 742.963
+782: It is Procedural: are abstract types present = true. Popularity = 5.100. Year of creation = 1963. GeneralFunction = 384.902
+783: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 3.700. Year of creation = 1960. GeneralFunction = 529.730
+784: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 10.600. Year of creation = 2005. GeneralFunction = 189.151
+785: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 6.100. Year of creation = 1962. GeneralFunction = 321.639
+786: It is Procedural: are abstract types present = true. Popularity = 7.100. Year of creation = 1958. GeneralFunction = 275.775
+787: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.700. Year of creation = 1969. GeneralFunction = 226.322
+788: It is Procedural: are abstract types present = false. Popularity = 4.400. Year of creation = 1940. GeneralFunction = 440.909
+789: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.100. Year of creation = 1982. GeneralFunction = 279.155
+790: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.000. Year of creation = 2014. GeneralFunction = 402.800
+791: It is Procedural: are abstract types present = false. Popularity = 3.000. Year of creation = 1980. GeneralFunction = 660.000
+792: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.800. Year of creation = 1972. GeneralFunction = 201.224
+793: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 7.100. Year of creation = 1976. GeneralFunction = 278.310
+794: It is Procedural: are abstract types present = true. Popularity = 6.200. Year of creation = 1947. GeneralFunction = 314.032
+795: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.900. Year of creation = 1980. GeneralFunction = 682.759
+796: It is Procedural: are abstract types present = true. Popularity = 10.100. Year of creation = 1948. GeneralFunction = 192.871
+797: It is Procedural: are abstract types present = false. Popularity = 10.200. Year of creation = 1962. GeneralFunction = 192.353
+798: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.300. Year of creation = 1977. GeneralFunction = 238.193
+799: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.500. Year of creation = 1922. GeneralFunction = 768.800
+800: It is ObjectOriented: inheritance = INTERFACE. Popularity = 4.500. Year of creation = 1939. GeneralFunction = 430.889
+801: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.900. Year of creation = 1953. GeneralFunction = 283.043
+802: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.900. Year of creation = 1963. GeneralFunction = 284.493
+803: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.500. Year of creation = 1938. GeneralFunction = 553.714
+804: It is Procedural: are abstract types present = true. Popularity = 9.800. Year of creation = 1963. GeneralFunction = 200.306
+805: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.800. Year of creation = 1957. GeneralFunction = 181.204
+806: It is Procedural: are abstract types present = true. Popularity = 3.500. Year of creation = 1920. GeneralFunction = 548.571
+807: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 3.200. Year of creation = 1920. GeneralFunction = 600.000
+808: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.500. Year of creation = 2009. GeneralFunction = 191.333
+809: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.700. Year of creation = 1920. GeneralFunction = 336.842
+810: It is Procedural: are abstract types present = true. Popularity = 6.300. Year of creation = 1958. GeneralFunction = 310.794
+811: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.900. Year of creation = 1985. GeneralFunction = 200.505
+812: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.900. Year of creation = 1984. GeneralFunction = 508.718
+813: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 5.300. Year of creation = 2010. GeneralFunction = 379.245
+814: It is ObjectOriented: inheritance = INTERFACE. Popularity = 3.100. Year of creation = 1978. GeneralFunction = 638.065
+815: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.900. Year of creation = 2007. GeneralFunction = 184.128
+816: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 2.100. Year of creation = 1979. GeneralFunction = 942.381
+817: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.300. Year of creation = 2003. GeneralFunction = 194.466
+818: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 10.900. Year of creation = 1966. GeneralFunction = 180.367
+819: It is Procedural: are abstract types present = false. Popularity = 10.800. Year of creation = 2012. GeneralFunction = 186.296
+820: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.300. Year of creation = 1981. GeneralFunction = 460.698
+821: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.200. Year of creation = 1928. GeneralFunction = 209.565
+822: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.900. Year of creation = 1991. GeneralFunction = 288.551
+823: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.400. Year of creation = 1956. GeneralFunction = 815.000
+824: It is Procedural: are abstract types present = false. Popularity = 3.600. Year of creation = 1959. GeneralFunction = 544.167
+825: It is Procedural: are abstract types present = false. Popularity = 5.900. Year of creation = 1966. GeneralFunction = 333.220
+826: It is ObjectOriented: inheritance = SINGLE. Popularity = 2.300. Year of creation = 2004. GeneralFunction = 871.304
+827: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.800. Year of creation = 1984. GeneralFunction = 522.105
+828: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.400. Year of creation = 1920. GeneralFunction = 1371.429
+829: It is Procedural: are abstract types present = true. Popularity = 9.400. Year of creation = 1986. GeneralFunction = 211.277
+830: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 4.900. Year of creation = 2011. GeneralFunction = 410.408
+831: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.000. Year of creation = 1920. GeneralFunction = 384.000
+832: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.600. Year of creation = 1971. GeneralFunction = 1231.875
+833: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 2.500. Year of creation = 1971. GeneralFunction = 788.400
+834: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.800. Year of creation = 2001. GeneralFunction = 256.538
+835: It is Procedural: are abstract types present = false. Popularity = 9.400. Year of creation = 1961. GeneralFunction = 208.617
+836: It is Procedural: are abstract types present = true. Popularity = 3.500. Year of creation = 1934. GeneralFunction = 552.571
+837: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.400. Year of creation = 1981. GeneralFunction = 1415.000
+838: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.900. Year of creation = 1961. GeneralFunction = 220.337
+839: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.600. Year of creation = 1959. GeneralFunction = 349.821
+840: It is Procedural: are abstract types present = true. Popularity = 10.500. Year of creation = 1934. GeneralFunction = 184.190
+841: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.100. Year of creation = 2006. GeneralFunction = 393.333
+842: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 2.000. Year of creation = 1977. GeneralFunction = 988.500
+843: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 10.200. Year of creation = 1995. GeneralFunction = 195.588
+844: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.600. Year of creation = 1947. GeneralFunction = 202.812
+845: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.800. Year of creation = 1924. GeneralFunction = 196.327
+846: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.300. Year of creation = 1952. GeneralFunction = 267.397
+847: It is Procedural: are abstract types present = false. Popularity = 5.100. Year of creation = 1989. GeneralFunction = 390.000
+848: It is ObjectOriented: inheritance = INTERFACE. Popularity = 5.200. Year of creation = 1920. GeneralFunction = 369.231
+849: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 7.700. Year of creation = 1950. GeneralFunction = 253.247
+850: It is Procedural: are abstract types present = false. Popularity = 4.000. Year of creation = 2003. GeneralFunction = 500.750
+851: It is Procedural: are abstract types present = true. Popularity = 7.100. Year of creation = 2013. GeneralFunction = 283.521
+852: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.000. Year of creation = 1958. GeneralFunction = 217.556
+853: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.500. Year of creation = 1978. GeneralFunction = 208.211
+854: It is Procedural: are abstract types present = true. Popularity = 3.900. Year of creation = 1991. GeneralFunction = 510.513
+855: It is Procedural: are abstract types present = false. Popularity = 4.000. Year of creation = 1966. GeneralFunction = 491.500
+856: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.400. Year of creation = 1940. GeneralFunction = 359.259
+857: It is Procedural: are abstract types present = true. Popularity = 9.200. Year of creation = 2008. GeneralFunction = 218.261
+858: It is ObjectOriented: inheritance = SINGLE. Popularity = 8.300. Year of creation = 1963. GeneralFunction = 236.506
+859: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.800. Year of creation = 1976. GeneralFunction = 224.545
+860: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.800. Year of creation = 1974. GeneralFunction = 182.778
+861: It is Procedural: are abstract types present = true. Popularity = 4.000. Year of creation = 2012. GeneralFunction = 503.000
+862: It is Procedural: are abstract types present = false. Popularity = 5.800. Year of creation = 1997. GeneralFunction = 344.310
+863: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 4.000. Year of creation = 2004. GeneralFunction = 501.000
+864: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.600. Year of creation = 2002. GeneralFunction = 435.217
+865: It is Procedural: are abstract types present = false. Popularity = 10.800. Year of creation = 1998. GeneralFunction = 185.000
+866: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.400. Year of creation = 2007. GeneralFunction = 192.981
+867: It is Procedural: are abstract types present = true. Popularity = 8.800. Year of creation = 1963. GeneralFunction = 223.068
+868: It is Procedural: are abstract types present = false. Popularity = 4.700. Year of creation = 1954. GeneralFunction = 415.745
+869: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.500. Year of creation = 1947. GeneralFunction = 204.947
+870: It is Procedural: are abstract types present = false. Popularity = 2.600. Year of creation = 1921. GeneralFunction = 738.846
+871: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.800. Year of creation = 2015. GeneralFunction = 258.333
+872: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.700. Year of creation = 1923. GeneralFunction = 337.368
+873: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.600. Year of creation = 1974. GeneralFunction = 186.226
+874: It is Procedural: are abstract types present = true. Popularity = 1.700. Year of creation = 2002. GeneralFunction = 1177.647
+875: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 2.800. Year of creation = 1939. GeneralFunction = 692.500
+876: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 9.100. Year of creation = 1943. GeneralFunction = 213.516
+877: It is Procedural: are abstract types present = false. Popularity = 9.000. Year of creation = 2019. GeneralFunction = 224.333
+878: It is Procedural: are abstract types present = true. Popularity = 2.800. Year of creation = 1969. GeneralFunction = 703.214
+879: It is Procedural: are abstract types present = false. Popularity = 6.800. Year of creation = 1964. GeneralFunction = 288.824
+880: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.500. Year of creation = 2012. GeneralFunction = 804.800
+881: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.900. Year of creation = 1920. GeneralFunction = 193.939
+882: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.900. Year of creation = 1967. GeneralFunction = 504.359
+883: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.900. Year of creation = 2007. GeneralFunction = 225.506
+884: It is Procedural: are abstract types present = true. Popularity = 9.100. Year of creation = 1921. GeneralFunction = 211.099
+885: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.600. Year of creation = 2012. GeneralFunction = 189.811
+886: It is ObjectOriented: inheritance = SINGLE. Popularity = 4.300. Year of creation = 2012. GeneralFunction = 467.907
+887: It is Procedural: are abstract types present = false. Popularity = 3.100. Year of creation = 1922. GeneralFunction = 620.000
+888: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 3.000. Year of creation = 2019. GeneralFunction = 673.000
+889: It is Procedural: are abstract types present = false. Popularity = 5.600. Year of creation = 1955. GeneralFunction = 349.107
+890: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.900. Year of creation = 1967. GeneralFunction = 180.459
+891: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.800. Year of creation = 2019. GeneralFunction = 258.846
+892: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 6.200. Year of creation = 1935. GeneralFunction = 312.097
+893: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.300. Year of creation = 1949. GeneralFunction = 309.365
+894: It is ObjectOriented: inheritance = SINGLE. Popularity = 1.100. Year of creation = 1966. GeneralFunction = 1787.273
+895: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.500. Year of creation = 1970. GeneralFunction = 262.667
+896: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.100. Year of creation = 2015. GeneralFunction = 959.524
+897: It is Procedural: are abstract types present = false. Popularity = 4.900. Year of creation = 1939. GeneralFunction = 395.714
+898: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 6.600. Year of creation = 1938. GeneralFunction = 293.636
+899: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 4.700. Year of creation = 1961. GeneralFunction = 417.234
+900: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 2.300. Year of creation = 1930. GeneralFunction = 839.130
+901: It is Procedural: are abstract types present = false. Popularity = 10.200. Year of creation = 2014. GeneralFunction = 197.451
+902: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.800. Year of creation = 1984. GeneralFunction = 342.069
+903: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 10.900. Year of creation = 1975. GeneralFunction = 181.193
+904: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 9.200. Year of creation = 1958. GeneralFunction = 212.826
+905: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 8.200. Year of creation = 1931. GeneralFunction = 235.488
+906: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.200. Year of creation = 1932. GeneralFunction = 189.412
+907: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.100. Year of creation = 1942. GeneralFunction = 626.452
+908: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 5.100. Year of creation = 1945. GeneralFunction = 381.373
+909: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.800. Year of creation = 1957. GeneralFunction = 337.414
+910: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.900. Year of creation = 1979. GeneralFunction = 1041.579
+911: It is ObjectOriented: inheritance = INTERFACE. Popularity = 7.500. Year of creation = 1980. GeneralFunction = 264.000
+912: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.200. Year of creation = 1978. GeneralFunction = 618.125
+913: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 1.100. Year of creation = 1928. GeneralFunction = 1752.727
+914: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.500. Year of creation = 1924. GeneralFunction = 296.000
+915: It is ObjectOriented: inheritance = SINGLE. Popularity = 5.400. Year of creation = 1950. GeneralFunction = 361.111
+916: It is Procedural: are abstract types present = true. Popularity = 8.000. Year of creation = 1993. GeneralFunction = 249.125
+917: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 3.600. Year of creation = 1972. GeneralFunction = 547.778
+918: It is ObjectOriented: inheritance = INTERFACE. Popularity = 2.400. Year of creation = 1921. GeneralFunction = 800.417
+919: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.700. Year of creation = 1970. GeneralFunction = 419.149
+920: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.400. Year of creation = 1937. GeneralFunction = 230.595
+921: It is Procedural: are abstract types present = true. Popularity = 3.500. Year of creation = 1991. GeneralFunction = 568.857
+922: It is Procedural: are abstract types present = true. Popularity = 8.500. Year of creation = 1951. GeneralFunction = 229.529
+923: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.500. Year of creation = 1927. GeneralFunction = 1284.667
+924: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.900. Year of creation = 1952. GeneralFunction = 219.326
+925: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 1.000. Year of creation = 2010. GeneralFunction = 2010.000
+926: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.500. Year of creation = 1991. GeneralFunction = 234.235
+927: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 2.000. Year of creation = 2017. GeneralFunction = 1008.500
+928: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.000. Year of creation = 1943. GeneralFunction = 215.889
+929: It is Procedural: are abstract types present = true. Popularity = 10.800. Year of creation = 1922. GeneralFunction = 177.963
+930: It is Procedural: are abstract types present = false. Popularity = 6.800. Year of creation = 2007. GeneralFunction = 295.147
+931: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 7.500. Year of creation = 1929. GeneralFunction = 257.200
+932: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.800. Year of creation = 2002. GeneralFunction = 1112.222
+933: It is Procedural: are abstract types present = true. Popularity = 2.900. Year of creation = 2015. GeneralFunction = 694.828
+934: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 9.100. Year of creation = 1982. GeneralFunction = 217.802
+935: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.900. Year of creation = 1935. GeneralFunction = 327.966
+936: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.600. Year of creation = 1941. GeneralFunction = 202.188
+937: It is Procedural: are abstract types present = false. Popularity = 4.000. Year of creation = 2012. GeneralFunction = 503.000
+938: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 1.900. Year of creation = 1996. GeneralFunction = 1050.526
+939: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 10.200. Year of creation = 1971. GeneralFunction = 193.235
+940: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 6.300. Year of creation = 1934. GeneralFunction = 306.984
+941: It is ObjectOriented: inheritance = INTERFACE. Popularity = 6.600. Year of creation = 1941. GeneralFunction = 294.091
+942: It is ObjectOriented: inheritance = SINGLE. Popularity = 9.800. Year of creation = 1946. GeneralFunction = 198.571
+943: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 7.400. Year of creation = 2016. GeneralFunction = 272.432
+944: It is ObjectOriented: inheritance = SINGLE. Popularity = 6.700. Year of creation = 1941. GeneralFunction = 289.701
+945: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 5.800. Year of creation = 1973. GeneralFunction = 340.172
+946: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.100. Year of creation = 2014. GeneralFunction = 649.677
+947: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.100. Year of creation = 1974. GeneralFunction = 243.704
+948: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 2.000. Year of creation = 1976. GeneralFunction = 988.000
+949: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.300. Year of creation = 1933. GeneralFunction = 364.717
+950: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 9.400. Year of creation = 1939. GeneralFunction = 206.277
+951: It is Procedural: are abstract types present = false. Popularity = 8.500. Year of creation = 1921. GeneralFunction = 226.000
+952: It is ObjectOriented: inheritance = INTERFACE. Popularity = 1.000. Year of creation = 1927. GeneralFunction = 1927.000
+953: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 6.000. Year of creation = 1953. GeneralFunction = 325.500
+954: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 8.700. Year of creation = 1950. GeneralFunction = 224.138
+955: It is Procedural: are abstract types present = false. Popularity = 4.900. Year of creation = 1939. GeneralFunction = 395.714
+956: It is ObjectOriented: inheritance = SINGLE. Popularity = 7.100. Year of creation = 1994. GeneralFunction = 280.845
+957: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 5.900. Year of creation = 1947. GeneralFunction = 330.000
+958: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 4.800. Year of creation = 1930. GeneralFunction = 402.083
+959: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.000. Year of creation = 2018. GeneralFunction = 224.222
+960: It is ObjectOriented: inheritance = INTERFACE. Popularity = 10.900. Year of creation = 2016. GeneralFunction = 184.954
+961: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.000. Year of creation = 1994. GeneralFunction = 664.667
+962: It is ObjectOriented: inheritance = INTERFACE. Popularity = 9.500. Year of creation = 1981. GeneralFunction = 208.526
+963: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 3.200. Year of creation = 1964. GeneralFunction = 613.750
+964: It is Procedural: are abstract types present = true. Popularity = 9.700. Year of creation = 2000. GeneralFunction = 206.186
+965: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 2.600. Year of creation = 1995. GeneralFunction = 767.308
+966: It is Procedural: are abstract types present = true. Popularity = 5.200. Year of creation = 1945. GeneralFunction = 374.038
+967: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 4.600. Year of creation = 1972. GeneralFunction = 428.696
+968: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.700. Year of creation = 2019. GeneralFunction = 188.692
+969: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 9.500. Year of creation = 1924. GeneralFunction = 202.526
+970: It is Procedural: are abstract types present = true. Popularity = 2.200. Year of creation = 1939. GeneralFunction = 881.364
+971: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 7.500. Year of creation = 1993. GeneralFunction = 265.733
+972: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.400. Year of creation = 2006. GeneralFunction = 590.000
+973: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 10.300. Year of creation = 2002. GeneralFunction = 194.369
+974: It is ObjectOriented: inheritance = INTERFACE. Popularity = 8.300. Year of creation = 1980. GeneralFunction = 238.554
+975: It is Procedural: are abstract types present = false. Popularity = 5.300. Year of creation = 2002. GeneralFunction = 377.736
+976: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 6.100. Year of creation = 1920. GeneralFunction = 314.754
+977: It is Procedural: are abstract types present = false. Popularity = 5.400. Year of creation = 1939. GeneralFunction = 359.074
+978: It is Functional: typification = DYNAMIC, is lazy calculations support = true. Popularity = 10.600. Year of creation = 1951. GeneralFunction = 184.057
+979: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 5.000. Year of creation = 2000. GeneralFunction = 400.000
+980: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.300. Year of creation = 1982. GeneralFunction = 600.606
+981: It is Procedural: are abstract types present = true. Popularity = 2.200. Year of creation = 1959. GeneralFunction = 890.455
+982: It is ObjectOriented: inheritance = SINGLE. Popularity = 3.000. Year of creation = 1986. GeneralFunction = 662.000
+983: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 7.500. Year of creation = 1976. GeneralFunction = 263.467
+984: It is Procedural: are abstract types present = true. Popularity = 6.300. Year of creation = 1946. GeneralFunction = 308.889
+985: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 1.800. Year of creation = 1955. GeneralFunction = 1086.111
+986: It is Procedural: are abstract types present = false. Popularity = 4.600. Year of creation = 1999. GeneralFunction = 434.565
+987: It is Functional: typification = DYNAMIC, is lazy calculations support = false. Popularity = 1.200. Year of creation = 1939. GeneralFunction = 1615.833
+988: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 3.600. Year of creation = 2016. GeneralFunction = 560.000
+989: It is Procedural: are abstract types present = false. Popularity = 8.100. Year of creation = 2006. GeneralFunction = 247.654
+990: It is Procedural: are abstract types present = false. Popularity = 10.300. Year of creation = 1943. GeneralFunction = 188.641
+991: It is ObjectOriented: inheritance = MULTIPLE. Popularity = 8.500. Year of creation = 1943. GeneralFunction = 228.588
+992: It is Functional: typification = STRICT, is lazy calculations support = false. Popularity = 4.000. Year of creation = 1929. GeneralFunction = 482.250
+993: It is Procedural: are abstract types present = false. Popularity = 2.700. Year of creation = 1981. GeneralFunction = 733.704
+994: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 7.200. Year of creation = 1982. GeneralFunction = 275.278
+995: It is Functional: typification = STRICT, is lazy calculations support = true. Popularity = 8.100. Year of creation = 1987. GeneralFunction = 245.309
+996: It is ObjectOriented: inheritance = SINGLE. Popularity = 10.600. Year of creation = 2010. GeneralFunction = 189.623
+997: It is Procedural: are abstract types present = true. Popularity = 9.200. Year of creation = 2017. GeneralFunction = 219.239
+998: It is Procedural: are abstract types present = true. Popularity = 8.200. Year of creation = 1922. GeneralFunction = 234.390
+999: It is Procedural: are abstract types present = true. Popularity = 4.100. Year of creation = 1928. GeneralFunction = 470.244
+1000: It is Procedural: are abstract types present = true. Popularity = 10.400. Year of creation = 2016. GeneralFunction = 193.846

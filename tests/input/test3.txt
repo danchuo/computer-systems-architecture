@@ -1,0 +1,21 @@
+10
+procedural
+11.4 1985 False
+functional
+9.3 2001 1 True
+objectOriented
+2.9 1961 1
+procedural
+6.4 1999 1
+functional
+5.3 2001 2 True
+objectOriented
+3.8 1993 2
+functional
+6.3 1979 3 False
+procedural
+7.9 1990 1
+functional
+3.3 2001 1 False
+objectOriented
+3.9 1993 2
